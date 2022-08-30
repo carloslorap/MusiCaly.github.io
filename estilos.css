@@ -6,7 +6,7 @@ body {
     align-items: center;
     /* justify-content: center; */
 
-}
+} 
 
 body::-webkit-scrollbar {
     display: none;
